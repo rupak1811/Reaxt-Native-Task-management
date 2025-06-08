@@ -2,18 +2,25 @@
 
 A beautiful and functional task management app built with React Native and Expo, featuring smooth animations and a modern UI. This app helps you stay organized and productive with an intuitive interface and powerful features.
 
-![WhatsApp Image 2025-06-08 at 11 54 41_52474c9e](https://github.com/user-attachments/assets/a3bbef5e-4439-4420-a488-468aa3857444)
-![WhatsApp Image 2025-06-08 at 11 54 42_f9966f96](https://github.com/user-attachments/assets/0693559f-0d2a-4ed9-b4ef-1755756641ec)
-![WhatsApp Image 2025-06-08 at 11 54 43_bb6aa973](https://github.com/user-attachments/assets/22666105-54e8-4c01-9b21-ead8ebb987bb)
-![WhatsApp Image 2025-06-08 at 11 54 43_246671b1](https://github.com/user-attachments/assets/038fdee9-5e8b-4859-b3dc-1e3af0a26fb0)
-![WhatsApp Image 2025-06-08 at 11 54 44_b88393aa](https://github.com/user-attachments/assets/5f411479-965c-4214-8148-90517e3851f5)
-![WhatsApp Image 2025-06-08 at 11 54 44_e7efb4c7](https://github.com/user-attachments/assets/1f8a64d9-dbd5-4189-83f4-490861cafc3a)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a3bbef5e-4439-4420-a488-468aa3857444" alt="Screenshot 1" width="150"/>
+  <img src="https://github.com/user-attachments/assets/0693559f-0d2a-4ed9-b4ef-1755756641ec" alt="Screenshot 2" width="150"/>
+  <img src="https://github.com/user-attachments/assets/22666105-54e8-4c01-9b21-ead8ebb987bb" alt="Screenshot 3" width="150"/>
+  <img src="https://github.com/user-attachments/assets/038fdee9-5e8b-4859-b3dc-1e3af0a26fb0" alt="Screenshot 4" width="150"/>
+  <img src="https://github.com/user-attachments/assets/5f411479-965c-4214-8148-90517e3851f5" alt="Screenshot 5" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1f8a64d9-dbd5-4189-83f4-490861cafc3a" alt="Screenshot 6" width="150"/>
+</div>
 
+### Screenshot Explanations
 
+- **Screenshot 1**: The initial empty state of the task list, ready for new tasks to be added.
+- **Screenshot 2**: A task has been added ("Project work"), showing the option to edit or delete it, along with the keyboard for input.
+- **Screenshot 3**: The "Edit Task" modal, allowing the user to modify the task name and set its priority (High, Medium, Low).
+- **Screenshot 4**: Another task ("Chat application") has been added, and a notification for "Chat application" is visible at the top, demonstrating the reminder feature.
+- **Screenshot 5**: The "Project work" task has been marked as complete, indicated by the checkmark icon.
+- **Screenshot 6**: The "Project work" task has been successfully deleted from the list, leaving only "Chat application" remaining.
 
-
-
-
+---
 
 ## Features
 
@@ -43,6 +50,8 @@ A beautiful and functional task management app built with React Native and Expo,
 - Clean and modern design
 - Responsive layout for all screen sizes
 - Dark mode support
+
+---
 
 ## Getting Started
 
@@ -82,6 +91,8 @@ Before you begin, ensure you have the following installed:
    - Press `a` to open in Android emulator
    - Scan the QR code with Expo Go app on your physical device
 
+---
+
 ## Usage Guide
 
 ### Adding Tasks
@@ -115,7 +126,7 @@ We welcome contributions! Here's how you can help:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+3. Commit your changes (`git commit -m "Add some AmazingFeature"`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
