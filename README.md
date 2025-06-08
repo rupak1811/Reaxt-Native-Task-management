@@ -2,6 +2,19 @@
 
 A beautiful and functional task management app built with React Native and Expo, featuring smooth animations and a modern UI. This app helps you stay organized and productive with an intuitive interface and powerful features.
 
+![WhatsApp Image 2025-06-08 at 11 54 41_52474c9e](https://github.com/user-attachments/assets/a3bbef5e-4439-4420-a488-468aa3857444)
+![WhatsApp Image 2025-06-08 at 11 54 42_f9966f96](https://github.com/user-attachments/assets/0693559f-0d2a-4ed9-b4ef-1755756641ec)
+![WhatsApp Image 2025-06-08 at 11 54 43_bb6aa973](https://github.com/user-attachments/assets/22666105-54e8-4c01-9b21-ead8ebb987bb)
+![WhatsApp Image 2025-06-08 at 11 54 43_246671b1](https://github.com/user-attachments/assets/038fdee9-5e8b-4859-b3dc-1e3af0a26fb0)
+![WhatsApp Image 2025-06-08 at 11 54 44_b88393aa](https://github.com/user-attachments/assets/5f411479-965c-4214-8148-90517e3851f5)
+![WhatsApp Image 2025-06-08 at 11 54 44_e7efb4c7](https://github.com/user-attachments/assets/1f8a64d9-dbd5-4189-83f4-490861cafc3a)
+
+
+
+
+
+
+
 ## Features
 
 ### Core Functionality
